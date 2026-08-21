@@ -21,6 +21,6 @@ class Solution {
 int main() {
     Solution s;
 
-    cout << s.climbStairs(5) << endl; // Output: 8
+    cout << s.climbStairs(2) << endl; // Output: 8
     cout << s.climbStairs(3) << endl; // Output: 3
 }
